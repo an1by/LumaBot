@@ -1,0 +1,57 @@
+{
+    "skins": {
+        "name": "Скины",
+        "modal": [
+            {
+                "description": "Опишите скин, который вы желаете видеть",
+                "placeholder": "Я хочу..."
+            },
+            {
+                "description": "Какого стиля должны быть руки?",
+                "placeholder": "Стив/Алекс"
+            }
+        ],
+        "products": {
+            "skin1" : {
+                "name": "Шняга №1",
+                "description": "СЮДЭЭЭЭЭЭЭМ\n\nЦена: <cost>",
+                "image": "https://media.discordapp.net/attachments/1119566361434259467/1155128916068016180/image.png?width=290&height=662",
+                "cost": 2
+            },
+            "skin2": {
+                "id": "skin2",
+                "name": "Шняга №2",
+                "description": "СНОВА, где мои деньги?\n\nЦена: <cost>",
+                "image": "https://media.discordapp.net/attachments/1119566361434259467/1155129252031762483/image.png?width=320&height=662",
+                "cost": 999
+            }
+        }
+    },
+    "design": {
+        "name": "Оформление",
+        "modal": [
+            {
+                "description": "Как должно быть исполенно оформление?",
+                "placeholder": "Я хочу..."
+            },
+            {
+                "description": "Список скинов",
+                "placeholder": "namemc.com/profile/An1by"
+            }
+        ],
+        "products": {
+            "render1": {
+                "name": "Рендер №1",
+                "description": "Будет выполнено специально для An1by\n\nЦена: <cost>",
+                "image": "https://tenor.com/view/tony-dalton-eyebrow-lalo-lalo-salamanca-better-call-saul-gif-26126248",
+                "cost": 50
+            },
+            "render2": {
+                "name": "Рендер №2",
+                "description": "Где мои деньги?\n\nЦена: <cost>",
+                "image": "https://media.discordapp.net/attachments/1119566361434259467/1155132153730961438/1.png?width=265&height=592",
+                "cost": 999
+            }
+        }
+    }
+}
